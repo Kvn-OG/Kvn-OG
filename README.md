@@ -1,6 +1,6 @@
 # 👋 Olá, sou Kvn-OG! 🚀
 
-## 🇧🇷 Sobre Mim
+## BR Sobre Mim
 Sou um desenvolvedor web em formação, que iniciou sua trajetória com foco no front-end e hoje amplia seus conhecimentos no back-end para se tornar um profissional full stack. Tenho investido tempo e dedicação no domínio de tecnologias modernas, padrões de projeto e boas práticas de desenvolvimento, com o objetivo de atuar de forma profissional e eficiente no mercado de tecnologia.
 <br>
 Acredito que a base para o crescimento está na prática constante, no aprendizado contínuo e na busca por criar soluções que realmente façam a diferença para as pessoas e para os negócios.
