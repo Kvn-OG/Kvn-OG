@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, sou Kvn-OG! 🚀
 
-<!--
-**Kvn-OG/Kvn-OG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🇧🇷 Sobre Mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Utilizo o GitHub para compartilhar meus projetos, colaborar com a comunidade e aprimorar minhas habilidades em desenvolvimento de software e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,github,vscode,figma)](https://skillicons.dev)
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kvn-OG&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvn-OG&layout=compact&theme=tokyonight" width="350"/>
+</p>
+
+## 📫 Contato
+
+- Discord: [Kvnog](https://discord.com/users/SeuID)
+- Email: keven.oliveira2k22@gmail.com
+- LinkedIn: [Keven Oliveira](https://www.linkedin.com/in/kevenolg)
+
+---
