@@ -97,14 +97,10 @@
 
 ###
 
-<p align="left">- Discord: [Kvnog](https://discord.com/users/kvnog)<br>- Email: keven.oliveira2k22@gmail.com<br>- LinkedIn: [Keven Oliveira](https://www.linkedin.com/in/kevenolg)</p>
-
-###
-
 <img align="right" height="167" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNzY203M2Q2bnU2N202MDBreng2bjc5d204c2hsOXljYWJ6dTgxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kvn-OG/Kvn-OG/output/snake.svg" alt="Snake animation" />
+<p align="left">- Discord: [Kvnog](https://discord.com/users/kvnog)<br>- Email: keven.oliveira2k22@gmail.com<br>- LinkedIn: [Keven Oliveira](https://www.linkedin.com/in/kevenolg)</p>
 
 ###
