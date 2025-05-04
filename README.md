@@ -41,6 +41,14 @@ I believe that consistent practice, lifelong learning, and the drive to build me
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvn-OG&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kvn-OG/Kvn-OG/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kvn-OG/Kvn-OG/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kvn-OG/Kvn-OG/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 📫 Contato
 
 ![Discord](https://skillicons.dev/icons?i=discord)
