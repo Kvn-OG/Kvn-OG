@@ -33,10 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
 </div>
 
