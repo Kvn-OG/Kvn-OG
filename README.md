@@ -40,27 +40,24 @@
 <h3 align="left">👨‍💻 My Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="photoshop logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" alt="illustrator logo"  />
 </div>
 
 #
