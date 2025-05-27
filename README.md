@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor web em formação, que iniciou sua trajetória com foco no front-end e hoje amplia seus conhecimentos no back-end para se tornar um profissional full stack. Tenho investido tempo e dedicação no domínio de tecnologias modernas, padrões de projeto e boas práticas de desenvolvimento, com o objetivo de atuar de forma profissional e eficiente no mercado de tecnologia.</p>
+<p align="left">Sou um desenvolvedor web em formação, que iniciou sua trajetória com foco no front-end e hoje amplia seus conhecimentos no back-end para se tornar um profissional full stack. Tenho investido tempo e dedicação no domínio de tecnologias modernas, padrões de projeto e boas práticas de desenvolvimento, com o objetivo de atuar de forma profissional e eficiente no mercado de tecnologia. Estou atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Multivix.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a web developer in training who started with a focus on front-end development and is now expanding knowledge into back-end technologies to become a full stack professional. I’ve been dedicating time and effort to mastering modern tools, design patterns, and best practices, aiming to work professionally and effectively in the tech industry.</p>
+<p align="left">I'm a web developer in training who started with a focus on front-end development and is now expanding knowledge into back-end technologies to become a full stack professional. I’ve been dedicating time and effort to mastering modern tools, design patterns, and best practices, aiming to work professionally and effectively in the tech industry. I am currently studying Systems Analysis and Development at Multivix College.</p>
 
 ###
 
