@@ -68,7 +68,7 @@
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=Kvn-OG&theme=midnight&hide_border=true&size=compact&show_emoji=true" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=Kvn-OG&theme=midnight&hide_border=true&layout=grid" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=Kvn-OG&theme=midnight&hide_border=true" alt="Top Languages" />
 </div>
 
 <picture align="center">
