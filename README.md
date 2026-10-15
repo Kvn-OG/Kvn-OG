@@ -52,8 +52,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="35" alt="vite logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="35" alt="tailwind logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
