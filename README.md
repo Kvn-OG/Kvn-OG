@@ -67,8 +67,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kvn-OG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kvn-OG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://ghstats.dev/api/card?username=Kvn-OG&theme=midnight&hide_border=true&size=compact&show_emoji=true" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=Kvn-OG&theme=midnight&hide_border=true&layout=grid" alt="Top Languages" />
 </div>
 
 <picture align="center">
